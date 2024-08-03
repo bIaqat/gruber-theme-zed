@@ -3,8 +3,8 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 
 ## Preview
 ### Banana
-<img src="assets/gruber-banana.png" width="546">
+<img src="assets/gruber-banana.png" width="900">
 
 ## Installation
 1. Copy gruber.json to ~/.config/zed/themes/
-2. Open Zed and navigate to Settings -> Theme -> Gruber Soda
+2. Open Zed and navigate to Settings -> Theme -> Gruber
