@@ -4,7 +4,7 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 
 ## Preview
 ### Banana
-<img src="assets/gruber-banana.png" width="900">
+<img src="assets/gruber.png" width="900">
 
 ## Flavors
 ### Banana
@@ -67,8 +67,8 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 #### Based off of my good friend @planet-bluto's colors
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-blutonium.png" width="450"></td>
-		<td><img src="assets/gruber-light-blutonium.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-dark-blu.png" width="450"></td>
+		<td><img src="assets/gruber-light-blu.png" width="450"></td>
 	</tr>
 </table>
 
