@@ -1,9 +1,9 @@
 # Gruber
 Flavors of a theme for recreational programmers heavily inspired by [Gruber](https://github.com/rexim/gruber-darker-theme).
+
 `variants: (Dark & Light) [Banana, Apple, Blueberry, Cherry, Grape, Pear, Void, Blutonium]`
 
 ## Preview
-### Banana
 <img src="assets/gruber.png" width="900">
 
 ## Flavors
