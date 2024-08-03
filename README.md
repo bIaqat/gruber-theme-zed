@@ -64,7 +64,7 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 </table>
 
 ### Blutonium
-#### Based off of my good friend @planet-bluto's colors
+#### Based off of my good friend [@planet-bluto](https://github.com/planet-bluto)'s colors
 <table>
 	<tr>
 		<td rowspan="2"><img src="assets/gruber-dark-blu.png" width="450"></td>
