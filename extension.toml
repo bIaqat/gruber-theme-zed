@@ -1,7 +1,7 @@
-id = "gruber-theme"
-name = "Gruber Theme"
+id = "gruber-flavors"
+name = "Gruber Flavors"
 version = "0.5.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
-description = "A theme for recreational programmers."
+description = "15 flavors of a theme for recreational programmers."
 repository = "https://github.com/biaqat/gruber-theme-zed"
