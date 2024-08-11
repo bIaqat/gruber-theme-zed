@@ -1,5 +1,5 @@
 # Gruber Flavors
-Flavors of a theme for recreational programmers heavily inspired by [Gruber](https://github.com/rexim/gruber-darker-theme).
+Flavors of a theme for recreational programmers heavily inspired by [Gruber](https://github.com/rexim/gruberer-theme).
 
 `variants: (Dark & Light) [Banana, Apple, Blueberry, Cherry, Grape, Pear, Void, Blutonium]`
 
@@ -10,56 +10,56 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 ### Banana
 <table>
   <tr>
-    <td rowspan="2"><img src="assets/gruber-dark-banana.png" width="450"></td>
-    <td><img src="assets/gruber-light-banana.png" width="450"></td>
+    <td rowspan="2"><img src="assets/gruber-banana.png" width="450"></td>
+    <td><img src="assets/gruber-banana-lite.png" width="450"></td>
   </tr>
 </table>
 
 ### Apple
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-apple.png" width="450"></td>
-		<td><img src="assets/gruber-light-apple.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-apple.png" width="450"></td>
+		<td><img src="assets/gruber-apple-lite.png" width="450"></td>
 	</tr>
 </table>
 
 ### Blueberry
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-blueberry.png" width="450"></td>
-		<td><img src="assets/gruber-light-blueberry.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-blueberry.png" width="450"></td>
+		<td><img src="assets/gruber-blueberry-lite.png" width="450"></td>
 	</tr>
 </table>
 
 ### Cherry
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-cherry.png" width="450"></td>
-		<td><img src="assets/gruber-light-cherry.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-cherry.png" width="450"></td>
+		<td><img src="assets/gruber-cherry-lite.png" width="450"></td>
 	</tr>
 </table>
 
 ### Grape
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-grape.png" width="450"></td>
-		<td><img src="assets/gruber-light-grape.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-grape.png" width="450"></td>
+		<td><img src="assets/gruber-grape-lite.png" width="450"></td>
 	</tr>
 </table>
 
 ### Pear
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-pear.png" width="450"></td>
-		<td><img src="assets/gruber-light-pear.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-pear.png" width="450"></td>
+		<td><img src="assets/gruber-pear-lite.png" width="450"></td>
 	</tr>
 </table>
 
 ### Void
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-void.png" width="450"></td>
-		<td><img src="assets/gruber-light-void.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-void.png" width="450"></td>
+		<td><img src="assets/gruber-void-lite.png" width="450"></td>
 	</tr>
 </table>
 
@@ -67,8 +67,8 @@ Flavors of a theme for recreational programmers heavily inspired by [Gruber](htt
 #### Based off of my good friend [@planet-bluto](https://github.com/planet-bluto)'s colors
 <table>
 	<tr>
-		<td rowspan="2"><img src="assets/gruber-dark-blu.png" width="450"></td>
-		<td><img src="assets/gruber-light-blu.png" width="450"></td>
+		<td rowspan="2"><img src="assets/gruber-blu.png" width="450"></td>
+		<td><img src="assets/gruber-blu-lite.png" width="450"></td>
 	</tr>
 </table>
 
