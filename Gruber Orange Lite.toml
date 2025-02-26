@@ -1,0 +1,412 @@
+# Reverse Generation Tool Version 3.0
+name = "Gruber Orange Lite 🍊"
+theme = "light"
+
+# Theme Colors
+[color]
+black = "#242323"
+black2 = "#000000"
+red = "#CC2C46"
+crimson = "#CC2B46..h+30"
+crimson2 = "#CC2C46..h+30"
+darkkhaki = "#B3A76E"
+darkorchid = "#B12BCC"
+darkseagreen = "#7CB371"
+darkslategray = "#383A3B"
+dimgray = "#666B80..h=30"
+floralwhite = "#FAF9F3..s-2"
+goldenrod = "#BFA628..s+10"
+linen = "#F0EFE9..s-2"
+mediumpurple = "#7B89CC"
+olivedrab = "#5D993D..h-30"
+plum = "#CC8AD9"
+rosybrown = "#CC818D..h+30"
+royalblue = "#2A46CC"
+royalblue2 = "#2B46CC"
+silver = "#BFBFBF"
+
+[code.error]
+bg = "@red..10"
+border = "@red"
+fg = "@red..C0"
+
+[code.hint]
+bg = "@linen"
+border = "@royalblue2..9F"
+fg = "#7373738F"
+
+[code.info]
+bg = "@royalblue2..10"
+border = "@royalblue2"
+fg = "@royalblue"
+
+[code.success]
+bg = "@linen"
+border = "@darkseagreen"
+fg = "@darkorchid"
+
+[code.unreachable]
+bg = "@linen"
+
+[code.warning]
+bg = "#BFA60610"
+border = "#BFA606"
+fg = "@goldenrod"
+
+[editor]
+bg = "@floralwhite"
+gutter = "@floralwhite"
+invisible = "@black..50"
+number = "@silver"
+text = "@black"
+auto_complete = "$syntax.comment.fg..l-5"
+
+[editor.active]
+line = "@linen"
+number = "@crimson2"
+
+[editor.guides.indent]
+active = "@crimson2..80"
+colors = [
+	"@royalblue",
+	"@darkorchid",
+	"#3DB326",
+	"@crimson",
+	"@goldenrod",
+	"#209985",
+	"#212121",
+	"@rosybrown",
+	"@mediumpurple",
+	"@plum",
+	"@darkseagreen",
+	"@darkkhaki"
+]
+inactive = "@silver"
+
+[editor.matches]
+text = "#DEE7EA"
+
+[editor.search]
+captures = "#4D8DBF40"
+line = "@dimgray..1F"
+text = "@olivedrab..6E"
+
+[file.conflict]
+bg = "@rosybrown"
+border = "@rosybrown"
+fg = "@crimson"
+
+[file.created]
+bg = "@darkseagreen"
+border = "@darkseagreen"
+
+[file.deleted]
+bg = "@red..4F"
+border = "@red"
+fg = "@red..C0"
+
+[file.hidden]
+bg = "@linen"
+
+[file.ignored]
+fg = "@silver"
+
+[file.modified]
+bg = "@darkkhaki"
+border = "@darkkhaki"
+fg = "@goldenrod..C0"
+
+[file.renamed]
+bg = "@plum"
+border = "@plum"
+fg = "@darkorchid"
+
+[player]
+cursor = "@crimson2"
+highlight = "@dimgray..1F"
+z = "#86694C40"
+
+[scheme]
+black = "@black2..l+5"
+black_br = "#373237..(s+25, l-10)"
+black_dim = "#373237"
+blue = "@royalblue..l+5"
+blue_br = "@mediumpurple..(s+25, l-10)"
+blue_dim = "@mediumpurple"
+cyan = "#209985..l+5"
+cyan_br = "#70B3A7..(s+25, l-10)"
+cyan_dim = "#70B3A7"
+green = "#3DB326..l+5"
+green_br = "@darkseagreen..(s+25, l-10)"
+green_dim = "@darkseagreen"
+pink = "@darkorchid..l+5"
+pink_br = "@plum..(s+25, l-10)"
+pink_dim = "@plum"
+red = "@crimson..(l+5, h=0)"
+red_br = "@rosybrown..(s+25, l-10, h=0)"
+red_dim = "@rosybrown..h=0"
+white = "#212121..l+5"
+white_br = "#3B3B3B..(s+25, l-10)"
+white_dim = "#3B3B3B"
+yellow = "@goldenrod..l+5"
+yellow_br = "@darkkhaki..(s+25, l-10)"
+yellow_dim = "@darkkhaki"
+
+[syntax.boolean]
+fg = "@darkslategray"
+
+# COMMENT
+[syntax.comment]
+fg = "#99734D..(h+10, s+50, v+10)"
+
+[syntax.comment.doc]
+fg = "@olivedrab"
+
+[syntax.constant]
+fg = "@darkslategray"
+
+[syntax.constant.builtin]
+fg = "@darkslategray"
+
+[syntax.func]
+fg = "@dimgray"
+
+[syntax.func.builtin]
+fg = "@darkslategray"
+
+[syntax.func.def]
+fg = "@dimgray"
+
+[syntax.func.macro]
+fg = "@dimgray"
+
+[syntax.func.method]
+fg = "@black"
+
+[syntax.keyword]
+fg = "@crimson2"
+weight = 800
+
+[syntax.namespace]
+fg = "@black"
+
+[syntax.number]
+fg = "#434A59"
+
+[syntax.op]
+fg = "@black"
+
+[syntax.param]
+fg = "@black"
+
+[syntax.punc]
+fg = "@black"
+
+[syntax.punc.bracket]
+fg = "@black"
+
+[syntax.punc.delimiter]
+fg = "@black"
+
+[syntax.punc.symbol]
+fg = "@black"
+
+[syntax.string]
+fg = "@olivedrab"
+
+[syntax.string.escape]
+fg = "@olivedrab"
+
+[syntax.string.inter]
+fg = "@black"
+
+[syntax.string.regex]
+fg = "@olivedrab"
+
+[syntax.string.special]
+fg = "@olivedrab"
+
+[syntax.type]
+fg = "@darkslategray"
+
+[syntax.type.builtin]
+fg = "@darkslategray"
+
+[syntax.var]
+fg = "@black"
+
+[syntax.z.html_attribute]
+fg = "@black"
+
+[syntax.z.html_tag]
+fg = "@dimgray"
+
+[ui]
+bg = "@floralwhite"
+file_drop = "#B5C3C7"
+link = "@crimson2"
+panel = "@linen"
+popup = "@linen"
+terminal = "@floralwhite"
+
+[ui.bars]
+bottom = "@linen"
+tool = "@linen"
+top = "@linen"
+
+[ui.bars.tab]
+active = "@crimson2..2E"
+bg = "@linen"
+inactive = "@floralwhite..6E"
+
+[ui.bars.title]
+inactive = "@linen"
+
+[ui.border]
+active = "@linen"
+primary = "@linen"
+secondary = "@crimson2..9F"
+
+[ui.button]
+active = "@dimgray..1F"
+disabled = "#757E8F"
+pressed = "#B8B8B1"
+primary = "#D1D1C9"
+
+[ui.element]
+active = "@crimson2..40"
+bg = "@black2..00"
+disabled = "@dimgray"
+hover = "@dimgray..1F"
+pressed = "#D6D5D0"
+
+[ui.header]
+hover = "@crimson2..5F"
+primary = "@linen"
+
+[ui.scrollbar]
+border = "@black2..00"
+highlight = "@black2..00"
+thumb = "@dimgray..2E"
+track = "@black2..00"
+
+[ui.text]
+accent = "@crimson2"
+active = "@black"
+inactive = "@black..C0"
+muted = "@silver"
+placeholder = "@black..50"
+
+# Overrides
+[overrides]
+"style/border.disabled" = "$none"
+"style/border.focused" = "@linen"
+"style/border.transparent" = "$none"
+"style/hidden" = "$none"
+"style/hidden.border" = "$none"
+"style/icon" = "$none"
+"style/icon.accent" = "@crimson2"
+"style/icon.disabled" = "$none"
+"style/icon.muted" = "$none"
+"style/icon.placeholder" = "$none"
+"style/ignored.background" = "$none"
+"style/ignored.border" = "$none"
+"style/players/1" = { background = "$none", cursor = "$none", selection = "$none" }
+"style/predictive.background" = "@linen"
+"style/predictive.border" = "$none"
+"style/scrollbar.thumb.hover_background" = "@black2..00"
+"style/surface.background" = "@linen"
+"style/syntax/comment.doc/color" = "#99734D"
+"style/syntax/embedded" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/emphasis" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/emphasis.strong" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/escape" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/hint" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/label" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/link_text/font_style" = "$none"
+"style/syntax/link_text/font_weight" = "$none"
+"style/syntax/link_uri/font_style" = "$none"
+"style/syntax/link_uri/font_weight" = "$none"
+"style/syntax/predictive" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/preproc" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/primary" = { color = "@crimson2", font_style = "$none", font_weight = "$none" }
+"style/syntax/punctuation.list_marker/color" = "#434A59"
+"style/syntax/text.literal" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/syntax/title" = { color = "@crimson2", font_style = "$none", font_weight = 800 }
+"style/syntax/type.interface" = { color = "@darkslategray", font_style = "$none", font_weight = "$none" }
+"style/syntax/type.super/color" = "$none"
+"style/syntax/variable.member/color" = "@black"
+"style/syntax/variant" = { color = "$none", font_style = "$none", font_weight = "$none" }
+"style/terminal.bright_foreground" = "@black"
+"style/terminal.dim_foreground" = "@black"
+"style/terminal.foreground" = "@black"
+
+# Deletions
+[deletions]
+keys = [
+	"/style/background.appearance",
+	"/style/editor.document_highlight.bracket_background",
+	"/style/syntax/attribute/background_color",
+	"/style/syntax/boolean/background_color",
+	"/style/syntax/comment.doc/background_color",
+	"/style/syntax/comment/background_color",
+	"/style/syntax/constant.builtin/background_color",
+	"/style/syntax/constant.character/background_color",
+	"/style/syntax/constant/background_color",
+	"/style/syntax/constructor/background_color",
+	"/style/syntax/enum/background_color",
+	"/style/syntax/function.builtin/background_color",
+	"/style/syntax/function.declaration",
+	"/style/syntax/function.definition/background_color",
+	"/style/syntax/function.method/background_color",
+	"/style/syntax/function.special.definition/background_color",
+	"/style/syntax/function.special/background_color",
+	"/style/syntax/function/background_color",
+	"/style/syntax/keyword.conditional",
+	"/style/syntax/keyword.conditional.ternary",
+	"/style/syntax/keyword.coroutine",
+	"/style/syntax/keyword.debug",
+	"/style/syntax/keyword.directive",
+	"/style/syntax/keyword.directive.define",
+	"/style/syntax/keyword.exception",
+	"/style/syntax/keyword.function",
+	"/style/syntax/keyword.import",
+	"/style/syntax/keyword.operator",
+	"/style/syntax/keyword.repeat",
+	"/style/syntax/keyword.return",
+	"/style/syntax/keyword.type",
+	"/style/syntax/keyword/background_color",
+	"/style/syntax/lifetime/background_color",
+	"/style/syntax/number/background_color",
+	"/style/syntax/operator.arithmetic",
+	"/style/syntax/operator.assignment",
+	"/style/syntax/operator.bitwise",
+	"/style/syntax/operator.comparison",
+	"/style/syntax/operator.logical",
+	"/style/syntax/operator/background_color",
+	"/style/syntax/property.json_key/background_color",
+	"/style/syntax/property/background_color",
+	"/style/syntax/punctuation.bracket.tag",
+	"/style/syntax/punctuation.bracket/background_color",
+	"/style/syntax/punctuation.delimiter/background_color",
+	"/style/syntax/punctuation.list_marker/background_color",
+	"/style/syntax/punctuation.special.symbol/background_color",
+	"/style/syntax/punctuation.special/background_color",
+	"/style/syntax/punctuation/background_color",
+	"/style/syntax/string.doc/background_color",
+	"/style/syntax/string.escape/background_color",
+	"/style/syntax/string.regex/background_color",
+	"/style/syntax/string.special.symbol/background_color",
+	"/style/syntax/string.special/background_color",
+	"/style/syntax/string/background_color",
+	"/style/syntax/tag/background_color",
+	"/style/syntax/type.builtin.primitive",
+	"/style/syntax/type.builtin/background_color",
+	"/style/syntax/type.super/background_color",
+	"/style/syntax/type/background_color",
+	"/style/syntax/variable.builtin",
+	"/style/syntax/variable.member/background_color",
+	"/style/syntax/variable.parameter/background_color",
+	"/style/syntax/variable.special/background_color",
+	"/style/syntax/variable/background_color"
+]

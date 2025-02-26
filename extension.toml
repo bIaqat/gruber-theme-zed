@@ -1,6 +1,6 @@
 id = "gruber-flavors"
 name = "Gruber Flavors"
-version = "0.7.0"
+version = "0.8.0"
 schema_version = 1
 authors = ["blaqat <blaqat.ag@gmail.com>"]
 description = "15 flavors of a theme for recreational programmers."
